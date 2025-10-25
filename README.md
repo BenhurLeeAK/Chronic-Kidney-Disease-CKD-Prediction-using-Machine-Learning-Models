@@ -1,0 +1,2 @@
+# Chronic-Kidney-Disease-CKD-Prediction-using-Machine-Learning-Models
+End-to-end machine learning project for Chronic Kidney Disease (CKD) prediction using patient diagnostic data. Compared multiple classification models — Logistic Regression, Random Forest, Extra Trees, and XGBoost — achieving the highest accuracy with Extra Trees Classifier. Deployed as an interactive Streamlit web app for real-time prediction.

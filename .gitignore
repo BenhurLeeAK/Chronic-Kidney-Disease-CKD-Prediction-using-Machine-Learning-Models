@@ -1,0 +1,19 @@
+# Virtual environments
+ckd_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit and logs
+.streamlit/
+logs/
+
+# Datasets
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
